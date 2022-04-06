@@ -10,7 +10,6 @@
 
 🤔 Looking for interesting ideas, collaborations in a drug discovery or any data science field
 
-🧑‍💻 #OpenToWork or #OpenForInternship in data science 
 
 📫 linas.kapocius@gmail.com
 
