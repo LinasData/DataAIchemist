@@ -3,8 +3,10 @@
 
 ## **Biography**
 
-Linas Kapočius, is a Medicinal Chemist, Data analyst, Bioinformatician, Cheminformatician. He has created the machine learning which won the [![Nord Security](![image](https://user-images.githubusercontent.com/68922285/188275898-46bac4fe-a39c-4db3-8c88-9b58eb9c3cf1.png)](https://nordsecurity.com/))
+Linas Kapočius, is a Medicinal Chemist, Data analyst, Bioinformatician, Cheminformatician. He has created the machine learning which won the 
+[![Nord Security](https://user-images.githubusercontent.com/68922285/188275898-46bac4fe-a39c-4db3-8c88-9b58eb9c3cf1.png)](https://nordsecurity.com/))
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
 
 the Nord Security and 
 
