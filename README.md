@@ -1,5 +1,5 @@
 
-![woman](https://user-images.githubusercontent.com/68922285/188276434-5398403d-2e78-447d-9065-ec9f300efb31.png)
+![woman](https://user-images.githubusercontent.com/68922285/188276470-4ced2f98-2c7b-4202-ac84-9908e61258c4.png)
 
 ## **Biography**
 
