@@ -17,7 +17,7 @@
 
 <br>
 
-I am a chemist and data analytics expert with a strong passion for advancing the fields of medicinal chemistry and data science. With a background in MSc in medicinal chemistry and experience in data analytics, I have successfully developed a winning machine learning model for predicting the biological activity of sphingosine-1-phosphate receptor 1 antagonists. Furthermore, I have also took part as a COVID-19 epigenomics data researcher, I have played a pivotal role in analyzing and interpreting epigenomic data related to COVID-19.
+I am a chemist and data analytics expert with a strong passion for advancing the fields of medicinal chemistry and data science. With a background in medicinal chemistry and experience in data analytics, I have successfully developed a winning machine learning model for predicting the biological activity of sphingosine-1-phosphate receptor 1 antagonists. Furthermore, I have also took part as a COVID-19 epigenomics data researcher, I have played a pivotal role in analyzing and interpreting epigenomic data related to COVID-19.
 
 In addition to my work in medicinal chemistry, I have also contributed significantly to the field of open data. I have worked as a data engineer, project coordinator in an open data initiative, where I have actively collaborated with diverse stakeholders to ensure the availability and accessibility of valuable data for citizens of Lithuania.
 </br>
