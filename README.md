@@ -21,3 +21,9 @@ I am a chemist and data analytics expert with a strong passion for advancing the
 
 In addition to my work in medicinal chemistry, I have also contributed significantly to the field of open data. I have worked as a data engineer, project coordinator in an open data initiative, where I have actively collaborated with diverse stakeholders to ensure the availability and accessibility of valuable data for citizens of Lithuania.
 </br>
+
+<div align="center">
+
+<img align="center" src="https://github.com/DataAIchemist/DataAIchemist/blob/main/316952392_5987928804571155_6343370224633332409_n.jpg?raw=true" alt="Photo of receiving the best masters' thesis award">
+	
+</div>
