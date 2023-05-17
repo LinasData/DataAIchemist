@@ -1,4 +1,10 @@
-<h1 align="center">Hi there 👋! I'm Linas Kapočius</h1>
+<div align="center">
+
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
+
+</div>	
+	
+<h1 align="center">I'm Linas Kapočius"</h1>
 
 <h3 align="center"><i>Medicinal chemist | Data Engineer | Data Analyst | Scientific Computing enthusiast</i></h3>
 
