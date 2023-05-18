@@ -36,8 +36,8 @@ In addition to my work in medicinal chemistry, I have also contributed significa
 </br>
 
 <div align="center">
-
-![image](file:///C:/Users/LinasKap/Downloads/heatmap.pdf)
+	
+![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/33adf200-bf8a-464d-ba98-561493f54a02)
 ![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/e84ebd3f-a38c-4ba7-893d-56c0738834f5)
 ![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/99a31fea-0a7b-4e4e-b674-6ec65c030eba)
 ![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/ddbeae9c-1a9a-42d2-9691-57cc6f627755)
