@@ -14,6 +14,7 @@
 ![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/7235b506-6df7-4302-969a-f001e80ac321)
 ![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/9167b7c6-913d-44b6-903a-597c863f6535)
 ![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/1892012f-bf3c-42b9-9f75-642056377a5e)
+![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/03376d2d-b123-4737-adfc-e0082b178649)
 </div>
 
 <div align="center">
