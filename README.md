@@ -51,7 +51,7 @@
 
 [![Google Data Analytics Badge](https://img.shields.io/badge/data%20analytics%20-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/QQ5LXEENN6DY)
 [![DataCamp Badge](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/statement-of-accomplishment/track/9d6048aa5b1753e26d9c17a9785854128e0a311b)&nbsp;&nbsp;
-[![Sololearn Badge](https://img.shields.io/badge/sololearn-orange?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/certificates/CT-LM4MOR2U")&nbsp;&nbsp;
+[![Sololearn Badge](https://img.shields.io/badge/sololearn-orange?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/certificates/CT-LM4MOR2U)&nbsp;&nbsp;
 </div>
 
 <div align="center">
