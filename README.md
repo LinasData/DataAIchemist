@@ -9,12 +9,49 @@
 <h3 align="center"><i>Medicinal chemist | Data Engineer | Data Analyst | Researcher | Scientific Computing enthusiast</i></h3>
 
 <div align="center">
+	
+<a href="https://www.helloaiprofessional.com/testimonials#yui_3_17_2_1_1684505931000_225" target="_blank">
+	<picture>
+		<source media="(prefers-color-scheme: light)" srcset="https://github.com/DataAIchemist/DataAIchemist/assets/68922285/e4d14842-4fe4-4590-b7a5-6af3c8d27923">
+		<img alt="EIT Health">
+	</picture>
+</a>
 
-![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/e4d14842-4fe4-4590-b7a5-6af3c8d27923#gh-light-mode-only)
-![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/7235b506-6df7-4302-969a-f001e80ac321#gh-light-mode-only)
-![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/9167b7c6-913d-44b6-903a-597c863f6535#gh-light-mode-only)
-![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/1892012f-bf3c-42b9-9f75-642056377a5e#gh-light-mode-only)
-![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/03376d2d-b123-4737-adfc-e0082b178649#gh-light-mode-only)
+<a href="https://www.15min.lt/verslas/naujiena/mokslas-it/jungtinis-ktu-ir-nord-security-konkursas-paskata-isnaudoti-patentavimo-galimybes-1290-1549328" target="_blank">
+	<picture>
+		<source media="(prefers-color-scheme: light)" srcset="https://github.com/DataAIchemist/DataAIchemist/assets/68922285/7235b506-6df7-4302-969a-f001e80ac321">
+		<img alt="15 min">
+	</picture>
+</a>
+
+<a href="https://www.bernardinai.lt/tarp-geriausiu-magistro-darbu-konkurso-nugaletoju-ir-ukrainos-piliete/" target="_blank">
+	<picture>
+		<source media="(prefers-color-scheme: light)" srcset="https://github.com/DataAIchemist/DataAIchemist/assets/68922285/9167b7c6-913d-44b6-903a-597c863f6535">
+		<img alt="Bernardinai">
+	</picture>
+</a>
+
+<a href="https://twitter.com/W1TTYApp/status/1466419934288830475/photo/1" target="_blank">
+	<picture>
+		<source media="(prefers-color-scheme: light)" srcset="https://github.com/DataAIchemist/DataAIchemist/assets/68922285/1892012f-bf3c-42b9-9f75-642056377a5e">
+		<img alt="W1TTY">
+	</picture>
+</a>
+
+<a href="https://certificates.mooc.fi/validate/ho9n7xw0k2f" target="_blank">
+	<picture>
+		<source media="(prefers-color-scheme: light)" srcset="https://github.com/DataAIchemist/DataAIchemist/assets/68922285/03376d2d-b123-4737-adfc-e0082b178649">
+		<img alt="Elements of AI">
+	</picture>
+</a>
+
+<a href="https://www.sololearn.com/certificates/CT-LM4MOR2U" target="_blank">
+	<picture>
+		<source media="(prefers-color-scheme: light)" srcset="https://github.com/DataAIchemist/DataAIchemist/assets/68922285/03376d2d-b123-4737-adfc-e0082b178649">
+		<img alt="Sololearn">
+	</picture>
+</a>
+	
 </div>
 
 <div align="center">
