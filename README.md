@@ -10,11 +10,11 @@
 
 <div align="center">
 
-![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/e4d14842-4fe4-4590-b7a5-6af3c8d27923)
-![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/7235b506-6df7-4302-969a-f001e80ac321)
-![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/9167b7c6-913d-44b6-903a-597c863f6535)
-![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/1892012f-bf3c-42b9-9f75-642056377a5e)
-![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/03376d2d-b123-4737-adfc-e0082b178649)
+![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/e4d14842-4fe4-4590-b7a5-6af3c8d27923#gh-light-mode-only)
+![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/7235b506-6df7-4302-969a-f001e80ac321#gh-light-mode-only)
+![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/9167b7c6-913d-44b6-903a-597c863f6535#gh-light-mode-only)
+![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/1892012f-bf3c-42b9-9f75-642056377a5e#gh-light-mode-only)
+![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/03376d2d-b123-4737-adfc-e0082b178649#gh-light-mode-only)
 </div>
 
 <div align="center">
