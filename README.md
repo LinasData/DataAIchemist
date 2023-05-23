@@ -129,4 +129,5 @@ https://data.gov.lt/dataset/zinioms-imliu-produktu-duomenys
 </div>
 
 # Data scraping 🐍 🔥
+
 https://github.com/DataAIchemist/DataAIchemist/assets/68922285/3265aed4-340d-4fdf-98ba-bb15e64023b6
