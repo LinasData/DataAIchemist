@@ -127,7 +127,3 @@ https://data.gov.lt/dataset/zinioms-imliu-produktu-duomenys
 ![treeplot_kegg](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/0bdc4482-49ad-4c35-9196-08199a87e7b0)
 	
 </div>
-
-# Data scraping 🐍 🔥
-
-https://github.com/DataAIchemist/DataAIchemist/assets/68922285/3265aed4-340d-4fdf-98ba-bb15e64023b6
