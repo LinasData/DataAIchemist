@@ -71,6 +71,21 @@ In addition to my work in medicinal chemistry, I have also contributed significa
 
 # Check out this prepared open data 📈
 
+## HI: Higienos institutas
+https://data.gov.lt/dataset/antimikrobiniu-vaistiniu-preparatu-vartojimo-lietuvoje-ataskaita
+
+https://data.gov.lt/dataset/lietuvos-respublikos-profesiniu-ligu-valstybes-registro-duomenys
+
+https://data.gov.lt/dataset/statistiniai-duomenys-apie-mirties-priezastis
+
+https://data.gov.lt/dataset/stacionaro-lovu-skaicius-ir-ju-veiklos-rodikliai
+
+https://data.gov.lt/dataset/suaugusiuju-gyvensenos-duomenys
+
+https://data.gov.lt/dataset/vaiku-gyvensenos-duomenys
+
+https://data.gov.lt/dataset/visuomenes-sveikatos-prieziuros-specialistu-registro-ataskaita
+
 ## AVNT: Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnyba
 https://data.gov.lt/dataset/duomenys-apie-tycinius-bankrotus
 
