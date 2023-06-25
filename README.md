@@ -117,6 +117,7 @@ https://data.gov.lt/dataset/zinioms-imliu-produktu-duomenys
 ## Data Viz 🧙‍♂️
 <div align="center">
 	
+![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/815c5261-7cb4-4ad7-a6de-3ee32c490204)
 ![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/ad7dfbf3-7787-4303-8ba9-3ea4158fcbcc)
 ![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/2b536db7-91df-4001-ba5c-6f8d938316f7)
 ![image](https://github.com/DataAIchemist/DataAIchemist/assets/68922285/99a31fea-0a7b-4e4e-b674-6ec65c030eba)
